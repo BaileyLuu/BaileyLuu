@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
- <img align= "center" alt="ECLIPSE" title="Eclipse" width="300px" height="400px" src="/profile_pic.jpg" >
+ <img align= "center" alt="profile_pic" title="My First Hackathon" width="300px" height="400px" src="/profile_pic.jpg" >
  </div>
  
 <br/>
