@@ -1,7 +1,15 @@
-### Hey, I'm Bailey Luu (she/her)👋
+<h1 align="center"> Hey, I'm Bailey Luu (she/her)👋 </h1>
+
 
 <!--
 ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)-->
+<br/>
+
+
+ <img align= "center" alt="ECLIPSE" title="Eclipse" width="600px" height="700px" src="/profile_pic.jpg" >
+ 
+<br/>
+
 
 ### Connect with me:
 
