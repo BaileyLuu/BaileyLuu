@@ -1,9 +1,7 @@
 ### Hey, I'm Bailey Luu (she/her)👋
 
 <!--
-
--->
-![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
+![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)-->
 
 ### Connect with me:
 
