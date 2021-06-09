@@ -14,10 +14,11 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/bailey_luu" target="_blank"> <img align= "left" alt="Twitter" width="65px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" ></a>
+<a href="https://twitter.com/bailey_luu" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="65px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
-<a href="https://www.linkedin.com/in/baileyluu/" target="_blank"> <img align= "left" alt="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ></a>
+<a href="https://www.linkedin.com/in/baileyluu/" target="_blank"> <img align= "left" alt="LinkedIn" title="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
+<a href="https://www.polywork.com/baileyluu" target="_blank"> <img align= "left" alt="Polywork" title="Polywork" width="50px" src="https://photos.angel.co/startups/i/7453176-7fc8803bec974ee66050c137970c8de8-medium_jpg.jpg?buster=1590678376" ></a>
 <br/>
 <br/>
 
