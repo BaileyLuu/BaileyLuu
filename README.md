@@ -6,5 +6,5 @@
 
 ### Connect with me:
 
-[<img align= "left" alt= "https://twitter.com/bailey_luu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align= "left" alt="https://twitter.com/bailey_luu" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
