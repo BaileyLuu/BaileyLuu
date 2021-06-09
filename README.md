@@ -36,6 +36,8 @@
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align= "left" alt="CSS" title="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></a>
 
+<a href="https://www.cprogramming.com" target="_blank"> <img align= "left" alt="C" title="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" ></a>
+
 <a href="https://www.figma.com" target="_blank"> <img align= "left" alt="FIGMA" title="Figma" width="35px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" ></a>
 <a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
 
