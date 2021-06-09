@@ -5,8 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)-->
 <br/>
 
-
+<div align="center">
  <img align= "center" alt="ECLIPSE" title="Eclipse" width="300px" height="400px" src="/profile_pic.jpg" >
+ </div>
  
 <br/>
 
