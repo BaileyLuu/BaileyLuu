@@ -37,4 +37,9 @@
 <br/>
 
 ![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true&theme=dark)
+<br/>
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyLuu&layout=compact&theme=dark)]
+
 
