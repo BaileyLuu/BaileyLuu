@@ -36,25 +36,39 @@
 
 <a href="https://cloud.google.com" target="_blank"> <img align= "left" alt="GOOGLE CLOUD" title="Google Cloud" width="65px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" ></a>
 
-<a href="https://html.com" target="_blank"> <img align= "left" alt="HTML" title="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align= "left" alt="CSS" title="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></a>
-
-<a href="https://www.cprogramming.com" target="_blank"> <img align= "left" alt="C" title="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" ></a>
-
 <a href="https://www.figma.com" target="_blank"> <img align= "left" alt="FIGMA" title="Figma" width="35px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" ></a>
-<a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
-
-<a href="https://www.java.com/en/" target="_blank"> <img align= "left" alt="JAVA" title="Java" width="30px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" ></a>
-
-<a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
-
 
 <br/>
 <br/>
+<br/>
+
+<div>
+<a href="https://html.com" target="_blank"> <img align= "left" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"> <img align= "left" alt="CSS" title="CSS" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></a>
+
+ <a href="https://www.cprogramming.com" target="_blank"> <img align= "left" alt="C" title="C" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" ></a>
+ 
+ <a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
+ 
+
+
+
+<a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
+
+<a href="https://www.java.com/en/" target="_blank"> <img align= "left" alt="JAVA" title="Java" width="45px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" ></a>
+
+
+</div>
+
+<br/>
+<br/>
+
 <br/>
 
 ![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true&theme=dark)
+ 
+ 
 <br/>
 <br/>
 <br/>
