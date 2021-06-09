@@ -26,11 +26,15 @@
 <a href="https://code.visualstudio.com" target="_blank"> <img align= "left" alt="VSCODE" title="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></a>
 
 <a href="http://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers
-" target="_blank"> <img align= "left" alt="ECLIPSE" title="Eclipse" width="50px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" ></a>
+" target="_blank"> <img align= "left" alt="ECLIPSE" title="Eclipse" width="55px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" ></a>
 
-<a href="https://github.com" target="_blank"> <img align= "left" alt="GITHUB" title="Github" width="50px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" ></a>
+<a href="https://github.com" target="_blank"> <img align= "left" alt="GITHUB" title="Github" width="55px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" ></a>
 
-<a href="https://cloud.google.com" target="_blank"> <img align= "left" alt="GOOGLE CLOUD" title="Google Cloud" width="50px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" ></a>
+<a href="https://developer.android.com/studio" target="_blank"> <img align= "left" alt="ANDROID STUDIO" title="Android Studio" width="60px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" ></a>
+
+<a href="https://flutter.dev" target="_blank"> <img align= "left" alt="FLUTTER" title="Flutter" width="40px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" ></a>
+
+<a href="https://cloud.google.com" target="_blank"> <img align= "left" alt="GOOGLE CLOUD" title="Google Cloud" width="65px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" ></a>
 
 <a href="https://html.com" target="_blank"> <img align= "left" alt="HTML" title="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></a>
 
