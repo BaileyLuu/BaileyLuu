@@ -1,16 +1,16 @@
 <h1 align="center"> Hey, I'm Bailey Luu (she/her)👋 </h1>
 
 
-<!--
-![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)-->
+
 <br/>
 
 <div align="center">
- <img align= "center" alt="profile_pic" title="My First Hackathon" width="300px" height="400px" src="/profile_pic.jpg" >
+ <img align= "center" alt="profile_pic" title="My First Hackathon" width="350px" height="400px" src="/profile_pic.jpg" >
  </div>
  
 <br/>
 
+![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
 
 ### Connect with me:
 
@@ -66,7 +66,8 @@
 
 <br/>
 
-![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true&theme=dark)
+<!--
+![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true&theme=dark)-->
  
  
 <br/>
