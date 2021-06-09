@@ -6,7 +6,7 @@
 <br/>
 
 
- <img align= "center" alt="ECLIPSE" title="Eclipse" width="600px" height="700px" src="/profile_pic.jpg" >
+ <img align= "center" alt="ECLIPSE" title="Eclipse" width="300px" height="400px" src="/profile_pic.jpg" >
  
 <br/>
 
