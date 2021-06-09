@@ -40,6 +40,7 @@
 <br/>
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyLuu&layout=compact&theme=dark)]
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyLuu&layout=compact&theme=dark)]--> 
 
 
