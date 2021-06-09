@@ -34,6 +34,7 @@
 
 <br/>
 <br/>
+<br/>
 
-[!(https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true)]
+[![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true)]
 
