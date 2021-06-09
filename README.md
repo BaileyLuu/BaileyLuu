@@ -30,3 +30,12 @@
 <a href="https://www.java.com/en/" target="_blank"> <img align= "left" alt="JAVA" title="Java" width="30px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" ></a>
 
 <a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
+
+
+<br/>
+<br/>
+
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
