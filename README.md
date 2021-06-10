@@ -36,6 +36,7 @@
 
 <a href="https://cloud.google.com" target="_blank"> <img align= "left" alt="GOOGLE CLOUD" title="Google Cloud" width="65px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" ></a>
 
+<a href="https://firebase.google.com" target="_blank"> <img align= "left" alt="FIREBASE" title="Firebase" width="40px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" ></a>
 <a href="https://www.figma.com" target="_blank"> <img align= "left" alt="FIGMA" title="Figma" width="35px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" ></a>
 
 <br/>
@@ -52,7 +53,7 @@
  <a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
  
 
-
+<a href="https://dart.dev" target="_blank"> <img align= "left" alt="DART" title="Dart" width="50px" src="https://cdn.worldvectorlogo.com/logos/dart.svg" ></a>
 
 <a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
 
