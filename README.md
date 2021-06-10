@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Bailey Luu (she/her)👋 </h1>
+<h1 align="center"> Hi, I'm Bailey Luu (she/her)👋 </h1>
 
 
 
@@ -8,7 +8,14 @@
  <img align= "center" alt="profile_pic" title="My First Hackathon" width="350px" height="400px" src="/profile_pic.jpg" >
  </div>
  
+ 
+ <br/>
+ 
+ 📫 bailey.luu30@gmail.com
+ 
 <br/>
+
+<p>I am passionate to create social good projects and currently explore the backend development.  </p>
 
 ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
 
