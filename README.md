@@ -15,7 +15,7 @@
  
 <br/>
 
-<p>I am passionate to create social good projects and currently explore the backend development.  </p>
+<p>I am passionate to create social good projects and currently explore the backend development. I am currently a Technical Lead @ Google Developer Student Club York University. </p>
 
 ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
 
