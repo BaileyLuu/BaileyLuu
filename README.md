@@ -15,13 +15,18 @@
  
 <br/>
 
-<p>I am passionate to create social good projects and currently explore the backend development. I am currently a Technical Lead @ Google Developer Student Club York University and an AngelHack Student Ambassador. </p>
+<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University and an AngelHack Student Ambassador 👑. </p>
+
+<p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. My goal for hackathon season 2022 is learning Python and organizing event. </p>
 
 ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
 
 ### Connect with me:
 
 <a href="https://twitter.com/bailey_luu" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="65px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" ></a>
+
+<a href="https://www.instagram.com/bailey_btl/" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" ></a>
+<a href = "mailto: bailey.luu30@gmail.com"> <img align= "left" alt="Twitter" title="Twitter" width="57px" src="https://image.flaticon.com/icons/png/512/281/281769.png" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 <a href="https://www.linkedin.com/in/baileyluu/" target="_blank"> <img align= "left" alt="LinkedIn" title="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
