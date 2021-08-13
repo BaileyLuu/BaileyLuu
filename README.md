@@ -11,13 +11,13 @@
  
  <br/>
  
- 📫 bailey.luu30@gmail.com
+ <!--📫 bailey.luu30@gmail.com -->
  
 <br/>
 
 <p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University and an AngelHack Student Ambassador 👑. </p>
 
-<p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. My goal for hackathon season 2022 is learning Python and organizing event. </p>
+<p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. My goals for hackathon season 2022 are learning Python and organizing event. </p>
 
 ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
 
