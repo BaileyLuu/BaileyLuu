@@ -34,7 +34,18 @@
 <br/>
 <br/>
 
-### Languges and Tools:
+### Frequently Use Languages and Tools:
+
+<div> 
+<a href="https://html.com" target="_blank"> <img align= "left" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"> <img align= "left" alt="CSS" title="CSS" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></a>
+ 
+<a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
+ 
+<a href="https://www.java.com/en/" target="_blank"> <img align= "left" alt="JAVA" title="Java" width="45px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" ></a>
+ <a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
+</div>
 <a href="https://code.visualstudio.com" target="_blank"> <img align= "left" alt="VSCODE" title="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></a>
 
 <a href="http://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers
@@ -42,34 +53,30 @@
 
 <a href="https://github.com" target="_blank"> <img align= "left" alt="GITHUB" title="Github" width="55px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" ></a>
 
+<a href="https://cloud.google.com" target="_blank"> <img align= "left" alt="GOOGLE CLOUD" title="Google Cloud" width="65px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" ></a>
+
+<a href="https://firebase.google.com" target="_blank"> <img align= "left" alt="FIREBASE" title="Firebase" width="40px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" ></a>
+
+
+<br> <br>
+
+### Rarely Use Language and Tools:
+
 <a href="https://developer.android.com/studio" target="_blank"> <img align= "left" alt="ANDROID STUDIO" title="Android Studio" width="60px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" ></a>
 
 <a href="https://flutter.dev" target="_blank"> <img align= "left" alt="FLUTTER" title="Flutter" width="40px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" ></a>
 
-<a href="https://cloud.google.com" target="_blank"> <img align= "left" alt="GOOGLE CLOUD" title="Google Cloud" width="65px" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" ></a>
-
-<a href="https://firebase.google.com" target="_blank"> <img align= "left" alt="FIREBASE" title="Firebase" width="40px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" ></a>
 <a href="https://www.figma.com" target="_blank"> <img align= "left" alt="FIGMA" title="Figma" width="35px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" ></a>
+
+<a href="https://www.cprogramming.com" target="_blank"> <img align= "left" alt="C" title="C" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" ></a>
+ 
+<a href="https://dart.dev" target="_blank"> <img align= "left" alt="DART" title="Dart" width="50px" src="https://cdn.worldvectorlogo.com/logos/dart.svg" ></a>
 
 <br/>
 <br/>
 <br/>
 
 <div>
-<a href="https://html.com" target="_blank"> <img align= "left" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> <img align= "left" alt="CSS" title="CSS" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></a>
-
- <a href="https://www.cprogramming.com" target="_blank"> <img align= "left" alt="C" title="C" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" ></a>
- 
- <a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
- 
-
-<a href="https://dart.dev" target="_blank"> <img align= "left" alt="DART" title="Dart" width="50px" src="https://cdn.worldvectorlogo.com/logos/dart.svg" ></a>
-
-<a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
-
-<a href="https://www.java.com/en/" target="_blank"> <img align= "left" alt="JAVA" title="Java" width="45px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" ></a>
 
 
 </div>
