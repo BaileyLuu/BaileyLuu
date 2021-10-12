@@ -15,7 +15,7 @@
  
 <br/>
 
-<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University and an AngelHack Student Ambassador 👑. </p>
+<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University and Logistics Executive @ Women in Science and Engineering York University </p>
 
 <p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. My goals for hackathon season 2022 are learning Python and organizing event. </p>
 
@@ -44,7 +44,7 @@
 <a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
  
 <a href="https://www.java.com/en/" target="_blank"> <img align= "left" alt="JAVA" title="Java" width="45px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" ></a>
- <a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
+ 
 </div>
 <a href="https://code.visualstudio.com" target="_blank"> <img align= "left" alt="VSCODE" title="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></a>
 
@@ -65,7 +65,7 @@
 <a href="https://developer.android.com/studio" target="_blank"> <img align= "left" alt="ANDROID STUDIO" title="Android Studio" width="60px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" ></a>
 
 <a href="https://flutter.dev" target="_blank"> <img align= "left" alt="FLUTTER" title="Flutter" width="40px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" ></a>
-
+<a href="https://reactjs.org" target="_blank"> <img align= "left" alt="REACT" title="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></a>
 <a href="https://www.figma.com" target="_blank"> <img align= "left" alt="FIGMA" title="Figma" width="35px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" ></a>
 
 <a href="https://www.cprogramming.com" target="_blank"> <img align= "left" alt="C" title="C" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" ></a>
