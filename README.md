@@ -15,7 +15,7 @@
  
 <br/>
 
-<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University, Logistics Executive @ Women in Science and Engineering York University, and new Microsoft Learn Student Ambasador </p>
+<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University, Logistics Executive @ Women in Science and Engineering York University (co-Organizer @ ElleHacks), and Alpha Microsoft Learn Student Ambasador </p>
 
 <p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. My goals for hackathon season 2022 are learning Python and organizing event. </p>
 
@@ -60,7 +60,7 @@
 
 <br> <br>
 
-### Rarely Use Language and Tools:
+<!-- ### Rarely Use Language and Tools:
 
 <a href="https://developer.android.com/studio" target="_blank"> <img align= "left" alt="ANDROID STUDIO" title="Android Studio" width="60px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" ></a>
 
@@ -85,7 +85,7 @@
 <br/>
 
 <br/>
-
+ -->
 
 ![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true&theme=dark)
  
