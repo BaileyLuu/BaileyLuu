@@ -19,6 +19,8 @@
 
 <p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. My goals for hackathon season 2022 are learning Python and organizing event. </p>
 
+During my free time, I love to use Autocode to build Discord Bots! I have built ElleHacks 2022 bot and implemented verification system function using Google Sheets API as a backend and also implemented general entertainment commands (-inspire, -advice, -affirmation, etc) to help hackers maintain good mental health during hackathon. 
+
 ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
 
 ### Connect with me:
