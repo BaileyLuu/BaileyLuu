@@ -89,8 +89,8 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 <br/>
  -->
 
-![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true&theme=dark)
- 
+<!-- ![BaileyLuu's Github stats](https://github-readme-stats.vercel.app/api?username=BaileyLuu&show_icons=true&hide_border=true&theme=dark)
+  -->
  
 <br/>
 <br/>
