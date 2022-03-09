@@ -15,7 +15,7 @@
  
 <br/>
 
-<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University, Logistics Executive @ Women in Science and Engineering York University (co-Organizer @ ElleHacks), and Alpha Microsoft Learn Student Ambasador </p>
+<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I am currently a Technical Lead @ Google Developer Student Club York University (co-Organizer @ yuHacks 2022), Logistics Executive @ Women in Science and Engineering York University (co-Organizer @ ElleHacks 2022), and Alpha Microsoft Learn Student Ambasador </p>
 
 <p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. My goals for hackathon season 2022 are learning Python and organizing event. </p>
 
@@ -25,12 +25,12 @@
 
 <a href="https://twitter.com/bailey_luu" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="65px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" ></a>
 
-<a href="https://www.instagram.com/bailey_btl/" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" ></a>
-<a href = "mailto: bailey.luu30@gmail.com"> <img align= "left" alt="Twitter" title="Twitter" width="57px" src="https://image.flaticon.com/icons/png/512/281/281769.png" ></a>
+<!-- <a href="https://www.instagram.com/bailey_btl/" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" ></a> -->
+<a href = "mailto: bailey.luu30@gmail.com"> <img align= "left" alt="Email" title="Email" width="57px" src="https://img.icons8.com/color/48/000000/gmail-new.png" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 <a href="https://www.linkedin.com/in/baileyluu/" target="_blank"> <img align= "left" alt="LinkedIn" title="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
-<a href="https://www.polywork.com/baileyluu" target="_blank"> <img align= "left" alt="Polywork" title="Polywork" width="50px" src="https://photos.angel.co/startups/i/7453176-7fc8803bec974ee66050c137970c8de8-medium_jpg.jpg?buster=1590678376" ></a>
+<a href="https://www.polywork.com/baileyluu" target="_blank"> <img align= "left" alt="Polywork" title="Polywork" width="50px" src="./polywork-rubix-icon-color.png" ></a>
 <br/>
 <br/>
 
