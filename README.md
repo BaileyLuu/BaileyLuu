@@ -49,9 +49,12 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align= "left" alt="CSS" title="CSS" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></a>
  
 <a href="https://www.javascript.com" target="_blank"> <img align= "left" alt="JAVASCRIPT" title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></a>
+
+
+<a href="https://getbootstrap.com" target="_blank"> <img align= "left" alt="Bootstrap" title="Bootstrap" width="70px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" ></a>
  
 <a href="https://www.java.com/en/" target="_blank"> <img align= "left" alt="JAVA" title="Java" width="45px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" ></a>
- 
+
 </div>
 <a href="https://code.visualstudio.com" target="_blank"> <img align= "left" alt="VSCODE" title="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></a>
 
@@ -64,7 +67,10 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 
 <a href="https://firebase.google.com" target="_blank"> <img align= "left" alt="FIREBASE" title="Firebase" width="40px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" ></a>
 
-<a href="https://getbootstrap.com" target="_blank"> <img align= "left" alt="Bootstrap" title="Firebase" width="70px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" ></a>
+
+<a href="https://powervirtualagents.microsoft.com/en-ca/" target="_blank"> <img align= "left" alt="Power Virtual Agents" title="Power Virtual Agents" width="60px" src="https://www.encorebusiness.com/wp-content/uploads/2022/06/PowerVirtualAgents.png" ></a>
+
+<a href="http://autocode.com" target="_blank"> <img align= "left" alt="Autocode" title="Autocode" width="70px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vbs5ll7w53u9v6wmqjns" ></a>
 
 <!-- https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png -->
 
