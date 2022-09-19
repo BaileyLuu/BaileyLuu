@@ -34,7 +34,7 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 <a href="https://www.linkedin.com/in/baileyluu/" target="_blank"> <img align= "left" alt="LinkedIn" title="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
 <a href="https://www.polywork.com/baileyluu" target="_blank"> <img align= "left" alt="Polywork" title="Polywork" width="50px" src="./polywork-rubix-icon-color.png" ></a>
-<a href="https://devpost.com/bailey-luu30" target="_blank"> <img align= "left" alt="Devpost" title="Devpost" width="60px" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" ></a>
+<a href="https://devpost.com/bailey-luu30" target="_blank"> <img align= "left" alt="Devpost" title="Devpost" width="60px" src="./devpost_logo.png" ></a>
 <br/>
 <br/>
 
