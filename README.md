@@ -29,7 +29,10 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 <a href="https://twitter.com/bailey_luu" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="65px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" ></a>
 
 <!-- <a href="https://www.instagram.com/bailey_btl/" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" ></a> -->
-<a href = "mailto: bailey.luu30@gmail.com"> <img align= "left" alt="Email" title="Email" width="57px" src="https://img.icons8.com/color/48/000000/gmail-new.png" ></a>
+<a href = "mailto: bailey.luu30@gmail.com"> <img align= "left" alt="Email" title="Email" width="57px" src="./gmail_logo.png" ></a>
+
+<!--https://img.icons8.com/color/48/000000/gmail-new.png-->
+
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 <a href="https://www.linkedin.com/in/baileyluu/" target="_blank"> <img align= "left" alt="LinkedIn" title="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
@@ -61,6 +64,9 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 
 <a href="https://firebase.google.com" target="_blank"> <img align= "left" alt="FIREBASE" title="Firebase" width="40px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" ></a>
 
+<a href="https://getbootstrap.com" target="_blank"> <img align= "left" alt="Bootstrap" title="Firebase" width="70px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" ></a>
+
+<!-- https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png -->
 
 <br> <br>
 
