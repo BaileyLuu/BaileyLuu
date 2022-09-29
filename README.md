@@ -15,7 +15,7 @@
  
 <br/>
 
-<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I was a Technical Lead & co-Organizer @ yuHacks 2022. I am a Logistics Executive & co-Organizer @ ElleHacks 2022, 2023, and Beta Microsoft Learn Student Ambasador. I was selected as MLH Top 50 Class of 2022. You can<a href="https://twitter.com/bailey_luu" target="_blank"> view my story. </a> </p>
+<p>I am passionate to create social good projects and currently explore the backend and frontend development 👩‍💻. I was a Technical Lead & co-Organizer @ yuHacks 2022. I am a Logistics Executive & co-Organizer @ ElleHacks 2022, 2023, and Beta Microsoft Learn Student Ambasador. I was selected as MLH Top 50 Class of 2022. You can<a href="https://top.mlh.io/2022/profiles/bailey-luu" target="_blank"> view my story. </a> </p>
 
 <p>I have desire to learn and explore more by attending hackathons, meeting new friends from around the world 🌎, and creating projects that solve the world problems. I have been part of 10+ hackathons and still learning 📚. </p>
 
