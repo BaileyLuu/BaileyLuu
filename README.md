@@ -2,14 +2,14 @@
 
 
 
-<br/>
+<!--<br/>
 
 <div align="center">
  <img align= "center" alt="profile_pic" title="My First Hackathon" width="350px" height="400px" src="/profile_pic.jpg" >
- </div>
+ </div> 
  
  
- <br/>
+ <br/>-->
  
  <!--📫 bailey.luu30@gmail.com -->
  
@@ -22,7 +22,7 @@
 
 During my free time, I love to use Autocode to build Discord Bots! I have built ElleHacks 2022 bot and implemented verification system function using Google Sheets API as a backend and also implemented general entertainment commands (-inspire, -advice, -affirmation, etc) to help hackers maintain good mental health during hackathon. 
 
-![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=BaileyLuu&color=green) -->
 
 ### Connect with me:
 
@@ -36,12 +36,13 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
 <a href="https://www.linkedin.com/in/baileyluu/" target="_blank"> <img align= "left" alt="LinkedIn" title="LinkedIn" width="50px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ></a>
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg -->
-<a href="https://www.polywork.com/baileyluu" target="_blank"> <img align= "left" alt="Polywork" title="Polywork" width="50px" src="./polywork-rubix-icon-color.png" ></a>
+<!-- <a href="https://www.polywork.com/baileyluu" target="_blank"> <img align= "left" alt="Polywork" title="Polywork" width="50px" src="./polywork-rubix-icon-color.png" ></a>-->
 <a href="https://devpost.com/bailey-luu30" target="_blank"> <img align= "left" alt="Devpost" title="Devpost" width="60px" src="./devpost_logo.png" ></a>
 <br/>
 <br/>
 
-### Frequently Use Languages and Tools:
+<!-- ### Frequently Use Languages and Tools:
+
 
 <div> 
 <a href="https://html.com" target="_blank"> <img align= "left" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></a>
@@ -71,7 +72,7 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 <a href="https://powervirtualagents.microsoft.com/en-ca/" target="_blank"> <img align= "left" alt="Power Virtual Agents" title="Power Virtual Agents" width="60px" src="https://www.encorebusiness.com/wp-content/uploads/2022/06/PowerVirtualAgents.png" ></a>
 
 <a href="http://autocode.com" target="_blank"> <img align= "left" alt="Autocode" title="Autocode" width="70px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/vbs5ll7w53u9v6wmqjns" ></a>
-
+-->
 <!-- https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png -->
 
 <br> <br>
