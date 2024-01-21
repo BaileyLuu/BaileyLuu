@@ -29,7 +29,7 @@ During my free time, I love to use Autocode to build Discord Bots! I have built 
 <a href="https://twitter.com/bailey_luu" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="65px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" ></a>
 
 <!-- <a href="https://www.instagram.com/bailey_btl/" target="_blank"> <img align= "left" alt="Twitter" title="Twitter" width="50px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" ></a> -->
-<a href = "mailto: bailey.luu30@gmail.com"> <img align= "left" alt="Email" title="Email" width="57px" src="./gmail_logo.png" ></a>
+<!--<a href = "mailto: bailey.luu30@gmail.com"> <img align= "left" alt="Email" title="Email" width="57px" src="./gmail_logo.png" ></a>-->
 
 <!--https://img.icons8.com/color/48/000000/gmail-new.png-->
 
